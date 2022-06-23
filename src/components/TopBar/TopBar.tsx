@@ -25,7 +25,12 @@ export default function TopBar() {
     >
       <Toolbar>
         <Box sx={{ flexGrow: 1 }}>
-          <Image src="/logo.png" alt="logo" width="100" height="30" />
+          <Image
+            src="/static/images/logo.png"
+            alt="logo"
+            width="100"
+            height="30"
+          />
         </Box>
 
         <Button
