@@ -18,6 +18,8 @@
 
 ## Things that can be improved:
 
+- Stop using Material UI (there are better libraries)
+
 - Add tests
 
 - Create a custom hook for localstorage (if needed), or use a persist tool for state managment
