@@ -1,13 +1,5 @@
 # mamali-abag
 
-## Technical requirements
-
-- Material UI 5 - Please use the latest version of Material UI
-- Typescript, Next.js, React - start with the template [provided by material UI](https://mui.com/getting-started/example-projects/#heading-official-examples)
-- Refrain from using plain CSS or SCSS (only in special cases if needed) and rather use MUI's native styling processors `createTheme` , `makeStyles` , `sx` property and more
-- Build the app in such a way that it is straightforward to change properties globally. In other words, keep colors, spacings, borders (and more) bound to few properties of the MUI theme
-- **BONUS** implement dark mode color palette using your own colors (design no evaluated)
-
 ### Steps to init client side:
 
 1.  `yarn`
