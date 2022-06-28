@@ -18,7 +18,7 @@
 
 ## Things that can be improved:
 
-- Stop using Material UI (there are better libraries)
+- Use chakra or mantine
 
 - Add tests
 
