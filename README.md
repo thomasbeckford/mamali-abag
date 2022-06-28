@@ -1,5 +1,7 @@
 # mamali-abag
 
+![Screen Shot 2022-06-28 at 08 31 07](https://user-images.githubusercontent.com/28713861/176168299-9585cf0e-6620-4cd7-8412-678f2b9acb77.png)
+
 ### Steps to init client side:
 
 1.  `yarn`
